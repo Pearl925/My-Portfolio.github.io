@@ -61,4 +61,6 @@ This project is licensed under the MIT License.
 
 You can contact me via the following platforms:
 
-Email: pearlly1@icloud.com LinkedIn: Lerato Motaung GitHub: Pearl925
+Email: pearlly1@icloud.com 
+LinkedIn: Lerato Motaung 
+GitHub: Pearl925
