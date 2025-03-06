@@ -2,13 +2,13 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects. The website is fully responsive and designed to be both visually appealing and functional. Explore my work and get in touch if you'd like to collaborate!
 
-#Project Overview
+# Project Overview
 
 This portfolio website is built to present my personal information, experience, and showcase various projects. It is structured to offer a smooth and modern browsing experience with features like:
 
 A responsive layout for optimal viewing across all devices. A hamburger menu for mobile users. Social media links for easy connection. Sections for About Me, Experience, Projects, and Contact.
 
-#Files & Directories
+# Files & Directories
 
 This repository contains the following files and directories:
 
